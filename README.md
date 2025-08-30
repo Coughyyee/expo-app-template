@@ -1,3 +1,8 @@
+# Basic Expo App Template
+Usage: `npx create-expo-app my-app -t https://github.com/<your-username>/<repo-name>`
+
+This is a basic template for react native expo app. Includes tailwindcss.
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
